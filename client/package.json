@@ -1,0 +1,32 @@
+{
+  "name": "vote-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "canvasjs": "^1.8.1",
+    "pusher": "^2.2.0",
+    "pusher-js": "^4.3.1",
+    "react": "^16.8.1",
+    "react-canvas-js": "^1.0.0",
+    "react-dom": "^16.8.1",
+    "react-materialize": "^2.6.0",
+    "react-pusher": "^0.2.0",
+    "react-scripts": "2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
