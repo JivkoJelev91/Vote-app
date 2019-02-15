@@ -5,10 +5,13 @@
   "dependencies": {
     "axios": "^0.18.0",
     "canvasjs": "^1.8.1",
+    "pusher": "^2.2.0",
     "pusher-js": "^4.3.1",
     "react": "^16.8.1",
+    "react-canvas-js": "^1.0.0",
     "react-dom": "^16.8.1",
     "react-materialize": "^2.6.0",
+    "react-pusher": "^0.2.0",
     "react-scripts": "2.1.5"
   },
   "scripts": {
