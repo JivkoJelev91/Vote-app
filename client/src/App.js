@@ -112,7 +112,7 @@ class App extends Component {
                 </p>
                 <p>
                   <input type="radio" name="os" id="macos" value="Macos"/>
-                  <label htmlFor="macos">Macos</label>
+                  <label htmlFor="macos">MacOs</label>
                 </p>
                 <p>
                   <input type="radio" name="os" id="linux" value="Linux"/>
